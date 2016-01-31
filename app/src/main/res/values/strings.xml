@@ -5,5 +5,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_location_help">Specify location in Zip,Country Code</string>
+    <string name="pref_location_default">500032,IN</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_unit">unit</string>
+    <string name="pref_unit_default">metric</string>
+    <string name="view_on_map">View on Map</string>
+
 
 </resources>
